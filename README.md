@@ -1,18 +1,63 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>Hi, I'm **Aaditya Hammad** — a Software Engineer from Bangalore, India with a passion for building clean, scalable, and secure backend systems.<br><br>I specialize in **Java + Spring Boot** on the backend and **React** on the frontend, with a strong focus on REST API design, JWT-based authentication, and containerized deployments using Docker. I enjoy the full journey — from database schema design to CI/CD pipelines.<br><br>- 🔭 Currently building **CultivationX** — an AI-powered developer growth platform<br>- 🌱 Exploring **microservices**, **distributed systems**, and **AI integration**<br>- 🛡️ Love writing secure, well-structured backend code (SOLID principles, clean architecture)<br>- ⚙️  Comfortable with **Docker**, **GitHub Actions**, and **Linux** environments<br>- 🎯 Goal: Ship production-grade software and grow into a backend-focused SDE role<br>- 📍 Based in Indore, MP — open to remote and relocation opportunities<br>- 📫 Reach me at **aadityahammad@gmail.com**<br><br>---<br><br>
+# 👨‍💻 Aaditya Hammad
 
+**Software Engineer** — Building clean, scalable, and secure backend systems.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__aaditya__21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aaditya-hammad-718904271) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadityahammad@gmail.com) 
+I specialize in **Java + Spring Boot** on the backend and **React** on the frontend, with a strong focus on REST API design, JWT-based authentication, and containerized deployments using Docker. I enjoy the full journey — from database schema design to CI/CD pipelines.
 
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aadityahammad-2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aadityahammad-2002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aadityahammad-2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🌱 Exploring **microservices**, **distributed systems**, and **AI integration**
+- 🛡️ Love writing secure, well-structured backend code (SOLID principles, clean architecture)
+- ⚙️ Comfortable with **Docker**, **GitHub Actions**, and **Linux** environments
+- 🎯 Goal: Ship production-grade software and grow into a backend-focused SDE role
+- 📍 Based in Indore, MP — open to remote and relocation opportunities
+- 📫 Reach me at **aadityahammad@gmail.com**
 
 ---
-[![](https://komarev.com/ghpvc/?username=aadityahammad-2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-2d3748?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2d3748?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2d3748?style=flat-square&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-2d3748?style=flat-square&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-2d3748?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2d3748?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2d3748?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2d3748?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2d3748?style=flat-square&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2d3748?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2d3748?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2d3748?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2d3748?style=flat-square&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-2d3748?style=flat-square&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-2d3748?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-2d3748?style=flat-square&logo=swagger&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-2d3748?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2d3748?style=flat-square&logo=linux&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-2d3748?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+---
+
+## Featured Project
+
+### [CultivationX](https://github.com/aadityahammad-2002/CultivationX) — AI-Powered Developer Career Growth Platform
+
+**Tech:** Java 21, Spring Boot 3.5, Spring AI, React, TypeScript, MySQL, Docker
+
+A full-stack platform that helps developers:
+- Analyze resumes with AI-powered ATS scoring
+- Identify skill gaps and get personalized roadmaps
+- Track coding progress via GitHub & LeetCode sync
+- Get AI mentorship with code review
+- Auto-push LeetCode solutions to GitHub with AI review and README generation
+
+---
+
+## Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-2d3748?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/__aaditya__21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d3748?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-hammad-718904271)
+[![Email](https://img.shields.io/badge/Email-2d3748?style=flat-square&logo=gmail&logoColor=white)](mailto:aadityahammad@gmail.com)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=aadityahammad-2002&color=2d3748&style=flat-square)](https://github.com/aadityahammad-2002)
