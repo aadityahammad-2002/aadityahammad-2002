@@ -2,6 +2,11 @@
 
 **Software Engineer** — Building clean, scalable, and secure backend systems.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=flat-square&logo=vercel&logoColor=white)](https://aaditya-portfolio-eight.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/__aaditya__21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-hammad-718904271)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aadityahammad@gmail.com)
+
 I specialize in **Java + Spring Boot** on the backend and **React** on the frontend, with a strong focus on REST API design, JWT-based authentication, and containerized deployments using Docker. I enjoy the full journey — from database schema design to CI/CD pipelines.
 
 - 🌱 Exploring **microservices**, **distributed systems**, and **AI integration**
@@ -39,7 +44,9 @@ I specialize in **Java + Spring Boot** on the backend and **React** on the front
 
 ## Featured Project
 
-### [CultivationX](https://github.com/aadityahammad-2002/CultivationX) — AI-Powered Developer Career Growth Platform
+### [CultivationX](https://github.com/aadityahammad-2002/CultivationX) — AI-Powered Developer Career Growth Platform  
+
+**Live Demo:** [cultivation-x-indol.vercel.app](https://cultivation-x-indol.vercel.app)
 
 **Tech:** Java 21, Spring Boot 3.5, Spring AI, React, TypeScript, MySQL, Docker
 
@@ -54,9 +61,10 @@ A full-stack platform that helps developers:
 
 ## Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-2d3748?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/__aaditya__21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d3748?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-hammad-718904271)
-[![Email](https://img.shields.io/badge/Email-2d3748?style=flat-square&logo=gmail&logoColor=white)](mailto:aadityahammad@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=flat-square&logo=vercel&logoColor=white)](https://aaditya-portfolio-eight.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/__aaditya__21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-hammad-718904271)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aadityahammad@gmail.com)
 
 ---
 
