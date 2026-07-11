@@ -13,7 +13,7 @@ I specialize in **Java + Spring Boot** on the backend and **React** on the front
 - 🛡️ Love writing secure, well-structured backend code (SOLID principles, clean architecture)
 - ⚙️ Comfortable with **Docker**, **GitHub Actions**, and **Linux** environments
 - 🎯 Goal: Ship production-grade software and grow into a backend-focused SDE role
-- 📍 Based in Indore, MP — open to remote and relocation opportunities
+- 📍 Based in Bangalore — open to remote and relocation opportunities
 - 📫 Reach me at **aadityahammad@gmail.com**
 
 ---
