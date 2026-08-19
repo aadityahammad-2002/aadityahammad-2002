@@ -9,6 +9,8 @@
 
 I specialize in **Java + Spring Boot** on the backend and **React** on the frontend, with a strong focus on REST API design, JWT-based authentication, and containerized deployments using Docker. I enjoy the full journey — from database schema design to CI/CD pipelines.
 
+> 🚀 **Currently building [AI Legacy Bridge](#ai-legacy-bridge)** — an AI platform that cuts legacy-codebase onboarding time from weeks to hours, helping developers understand, visualize, and safely migrate old/undocumented systems using RAG + LLM agents.
+
 - 🌱 Exploring **microservices**, **distributed systems**, and **AI integration**
 - 🛡️ Love writing secure, well-structured backend code (SOLID principles, clean architecture)
 - ⚙️ Comfortable with **Docker**, **GitHub Actions**, and **Linux** environments
@@ -43,6 +45,19 @@ I specialize in **Java + Spring Boot** on the backend and **React** on the front
 ---
 
 ## Featured Project
+
+### [AI Legacy Bridge] — AI-Powered Legacy Code Intelligence Platform
+
+**Tech:** Java 21, Spring Boot, Spring AI, React, PostgreSQL, pgvector, Groq LLM, Docker
+
+Legacy codebases are hard to onboard onto — new developers spend weeks manually tracing thousands of lines of undocumented code just to understand how things work. **AI Legacy Bridge** solves this by letting developers analyze, visualize, and query unfamiliar codebases through AI — cutting onboarding and migration time from weeks to hours.
+
+- 🔍 **Analysis Engine** — browser-side AST parsing (Acorn/Babel) generating dependency graphs, call graphs, design-pattern detection, security scans, and health-score metrics in a single pass
+- 🧠 **Agentic RAG Pipeline** — per-function/class chunking, local embeddings, and pgvector similarity search feeding 5 specialized AI agents (Debug, Security, Migration, Risk Analysis, Explain) powered by **Groq Llama 3.3 70B**
+- 🗂️ **Repository-Isolated Backend** — Spring Boot backend with strict multi-repository data isolation, so multiple codebases can be analyzed safely in parallel
+- 💻 **IDE-style AI Explorer** — Monaco editor + folder tree + AI chat with a Focused Mode that scopes AI context to a selected file's direct dependencies, and refresh-safe session persistence (IndexedDB + localStorage)
+
+---
 
 ### [CultivationX](https://github.com/aadityahammad-2002/CultivationX) — AI-Powered Developer Career Growth Platform  
 
